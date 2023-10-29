@@ -4,6 +4,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 
 
 [Accenture](https://www.accenture.com/us-en),
+[Airties](https://airties.com/),
 [Aizona Tech](https://aizonatech.com/),
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
 [Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/),
