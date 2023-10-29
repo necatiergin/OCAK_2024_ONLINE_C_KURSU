@@ -113,7 +113,7 @@ Kursla ilgili eğitim materyalleri kurs süresince öğrencilerle paylaşılmakt
 Kurs ücreti __18.000__ **₺**'dir. Öğrenciler için kurs ücreti __16.500__ **₺**'dir. Bireysel katılımcılar kurs ücretlerini 2 taksit olarak ödeyebilirler.
 
 ## Kursa Kayıt Olma
-&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZIlf-morDsjE9KH47G8GNowpxvLYVMXcZBZ)  
+&#128279;[Kursa katılım için önce ön kayıt yaptırmalısınız.](https://us02web.zoom.us/meeting/register/tZwpcOyhpzwpG9U3RyQc6Y9MVtf9X-hslEP0)  
 Kayıt olurken kendi isminizi ve e-posta adresinizi kullanmalısınız. Ön kayıt yaptırmanızın bir bağlayıcılığı yoktur. Ancak sınırlı kontenjana sahip bu kursa kesin kayıt için ön kayıt sırası esas alınacaktır.
 
 #### Kurs hakkında sorularınız için doğrudan &#128279;[__Necati Ergin__ ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/) ya da ona bir [e-posta mesajı gönderebilirsiniz.](mailto:necatiergin2019@gmail.com)
