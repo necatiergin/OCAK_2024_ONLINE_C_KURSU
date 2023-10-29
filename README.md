@@ -1,5 +1,5 @@
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
-📅 Kurs __9 Ocak 2024 Salı günü başlayacaktır.<br><br>
+📅 Kurs __9 Ocak 2024 Salı__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Salı, Perşembe ve Cuma__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
 💰️ Programın toplam ücreti **18.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **16.500** &#8378;'dir. 
