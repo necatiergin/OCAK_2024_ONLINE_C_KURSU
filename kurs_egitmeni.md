@@ -1,7 +1,10 @@
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana eğitim vermektedir. Necati Ergin [C++ Türkiye Topluluğunun](https://t.me/trcpp) kurucusudur. 
 __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
+
+
 [Accenture](https://www.accenture.com/us-en),
+[Aizona Tech](https://aizonatech.com/),
 [Akbank](https://www.akbank.com/tr-tr/sayfalar/default.aspx), 
 [Altınay Teknoloji](http://www.altinay.com/savunma-teknolojileri/),
 [Ankasis](http://www.ankasis.com/),
@@ -54,6 +57,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Roketsan](http://www.roketsan.com.tr/), 
 [Savronik](http://www.savronik.com.tr/tr/anasayfa/),
 [Siemens](https://www.siemens-home.bsh-group.com/tr/), 
+[Siemens Gamesa](https://www.siemensgamesa.com/en-int),
 [Statech Tecnology Solutions](http://www.statechsolutions.com/),
 [STM](https://www.stm.com.tr/tr), 
 [Sunny Elektronik](https://www.sunny.com.tr/), 
