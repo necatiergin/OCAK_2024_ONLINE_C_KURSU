@@ -1,4 +1,4 @@
-🏫 Bu kurs _C ve Sistem programcıları Derneği_ ve _Plepa Eğitim Hizmetleri_ işbirliği ile düzenlenmektedir.<br><br>
+🏫 Bu kurs _Plepa Eğitim Hizmetleri_ işbirliği ile düzenlenmektedir.<br><br>
 📅 Kurs __9 Ocak 2024 Salı__ günü başlayacaktır.<br><br>
 ⏰ Dersler __Salı, Perşembe ve Cuma__ günleri __19.30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 ⌛ Kursun toplam süresi __200__ saattir.<br><br>
